@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  padding: 20px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 6px;
+  margin: 5px;
+}
+
+#fixture div {
+  margin: 8px 0;
+  text-align: center;
+}
+
+input {
+  width: 40px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 6px;
+  text-align: center;
+}
+
+thead {
+  background: #222;
+}
+
+/* Zonas */
+.libertadores { background-color: #1e7e34; }
+.sudamericana { background-color: #b8860b; }
+.descenso { background-color: #8b0000; }
